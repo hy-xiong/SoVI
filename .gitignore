@@ -1,0 +1,4 @@
+*.pyc
+
+/ACS_Regionalization/*
+!/ACS_Regionalization/__init__.py
